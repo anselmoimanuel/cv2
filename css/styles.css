@@ -1,0 +1,138 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+  color: #AD8B73;
+  font-size: 90px;
+line-height: 2;
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #AD8B73;
+  font-size: 2rem;
+  font-family: 'Roboto Mono', monospace;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+p {
+  line-height: 2;
+}
+
+h3 {
+  font-family: 'Roboto Mono', monospace;
+}
+.top-container {
+  background-color: #E3CAA5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #E3CAA5;
+  padding: 50px 0 20px;
+}
+
+.digital {
+  text-decoration: underline;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.design {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.illustrator {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.aftereffects {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.intro {
+  width: 25%;
+  margin: auto;
+}
+
+hr {
+  border: dotted #CEAB93 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 20px auto 50px;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #000000;
+  font-size: 20px;
+  background: #AD8B73;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #AD8B73;
+  background-image: -webkit-linear-gradient(top, #AD8B73, #E3CAA5);
+  background-image: -moz-linear-gradient(top, #AD8B73, #E3CAA5);
+  background-image: -ms-linear-gradient(top, #AD8B73, #E3CAA5);
+  background-image: -o-linear-gradient(top, #AD8B73, #E3CAA5);
+  background-image: linear-gradient(to bottom, #AD8B73, #E3CAA5);
+  text-decoration: none;
+}
+
+a{
+  color: #AD8B73;
+  font-family: 'Roboto Mono', monospace;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #CEAB93;
+}
+
+.copyright {
+  color: #CEAB93;
+}
